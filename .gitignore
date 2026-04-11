@@ -1,2 +1,5 @@
 jbm/
-__pycache__/
+logs/
+tests/
+__pycache__
+.ipynb_checkpoints/
