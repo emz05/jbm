@@ -1,0 +1,17 @@
+{
+  "baseline_none": 0.13,
+  "baseline_smoothllm": 0.08,
+  "baseline_synonym": 0.11,
+  "baseline_remove": 0.13,
+  "baseline_perplexity": 0.13,
+  "gcg_none": 0.8,
+  "gcg_smoothllm": 0.12,
+  "gcg_synonym": 0.21,
+  "gcg_remove": 0.27,
+  "gcg_perplexity": 0.02,
+  "pair_none": 0.62195121951,
+  "pair_smoothllm": 0.5,
+  "pair_synonym": 0.21951219512195122,
+  "pair_remove": 0.41463414634,
+  "pair_perplexity": 0.59756097561
+}

@@ -1,0 +1,7 @@
+{
+  "none": 0.07,
+  "smoothllm": 0.03,
+  "synonym": 0.09,
+  "remove": 0.07,
+  "perplexity": 0.07
+}

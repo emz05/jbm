@@ -1,0 +1,7 @@
+{
+  "none_benign_refusal_rate": 0.22,
+  "smoothllm_benign_refusal_rate": 0.28,
+  "synonym_benign_refusal_rate": 0.26,
+  "remove_benign_refusal_rate": 0.27,
+  "perplexity_benign_refusal_rate": 0.27
+}
