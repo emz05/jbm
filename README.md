@@ -12,6 +12,10 @@ conda activate jbm
 login with hugging face token
 
 ## Structure
+
+research-paper.pdf
+- contains analysis over entire experiment
+
 data/ 
 - contains datasets loaded from hugging face in datasets.ipynb
 
