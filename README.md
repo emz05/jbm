@@ -13,7 +13,7 @@ login with hugging face token
 
 ## Structure
 
-research-paper.pdf
+unlearning-paper.pdf
 - contains analysis over entire experiment
 
 data/ 
